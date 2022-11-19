@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/c++_progects/My frameworks/AVLTree/AVLTree.cpp
+AVLTree.h
+D:/c++_progects/My frameworks/AVLTree/AVLTree.h
+
+D:/c++_progects/My frameworks/AVLTree/AVLTree.h
+iostream
+-
+
+D:/c++_progects/My frameworks/AVLTree/main.cpp
+iostream
+-
+AVLTree.h
+D:/c++_progects/My frameworks/AVLTree/AVLTree.h
+

@@ -1,0 +1,3 @@
+D:/c++_progects/My frameworks/AVLTree/cmake-build-debug/CMakeFiles/AVLTree.dir
+D:/c++_progects/My frameworks/AVLTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++_progects/My frameworks/AVLTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
